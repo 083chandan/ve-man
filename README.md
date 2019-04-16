@@ -1,2 +1,2 @@
-# ve-man
-Python's Virtual Environment Manager.
+# v-man (Virtual Environment Maintainer)
+Python's virtual environment manager.
